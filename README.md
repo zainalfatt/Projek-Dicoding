@@ -23,6 +23,6 @@ Hasil dari proyek ini terdapat dalam notebook TugasAkhirDicoding.ipynb. Proyek i
 # Kontribusi
 Kontribusi dan saran are welcome. Silakan kirim pull request untuk perbaikan atau peningkatan.
 
-#Lisensi
+# Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT.scss
 Pastikan untuk menggantikan bagian "[TugasAkhirDicoding.ipynb](TugasAkhirDicoding.ipynb)" dengan nama sebenarnya dari file notebook Anda. Jika ada dependensi atau persyaratan khusus, pastikan untuk menyertakannya dalam instruksi instalasi.
